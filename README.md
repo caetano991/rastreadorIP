@@ -68,8 +68,8 @@ Passo a Passo
 Clone o repositório:
 
 Bash
-git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
-cd NOME_DO_REPOSITORIO
+git clone https://github.com/caetano991/rastreadorIP.git
+cd rastreadorIP
 Compile o projeto e baixe as dependências:
 
 Bash
