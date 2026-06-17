@@ -69,17 +69,22 @@ Clone o repositório:
 
 Bash
 git clone https://github.com/caetano991/rastreadorIP.git
+
 cd rastreadorIP
+
 Compile o projeto e baixe as dependências:
 
 Bash
 ./mvnw clean install
+
 (No Windows, use mvnw.cmd clean install)
 
 Inicie a aplicação Spring Boot:
 
 Bash
 ./mvnw spring-boot:run
+
+
 Como Testar:
 Abra o seu navegador ou o Insomnia e faça uma requisição GET para o seguinte endereço (substituindo o 8.8.8.8 pelo IP que você desejar rastrear):
 
